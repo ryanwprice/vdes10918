@@ -1,6 +1,6 @@
 # Project 2 – Interactive Game
 Worth 25%
-**Due Week 8 (Week of Mar 6)**
+**Due Week 8 (Week of Mar 19)**
 
 ## Brief 
 You will develop a simple interactive game using HTML, CSS and JavaScript that integrates user behaviour (e.g., clicking, hovering, touching, shaking, scrolling and dragging). Your task is to create an index.html file that Javascript is written into following page load. Your content should include text, graphics and animation to enhance the interaction. Focus on usability is critical–the game may be familiar to most users, but gameplay must still be intuitive, regardless of previous experience. Instructions can be included, but strive to make the experience a success without having to read the rules first. Affordances, conventions, and other usability fundamentals will help in the success of the game's intuitiveness.
