@@ -2,7 +2,7 @@
 
 ## Overview
 
-This course gives you the opportunity to build dynamic Web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become Web apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. 
+This project gives you the opportunity to build dynamic web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become web Apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. 
 
 Instructor: Ryan Price    
 Email: [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)    
@@ -26,6 +26,11 @@ Emailing me the night before an assignment is due, will not likely get the desir
 
 We will be using [Brackets](http://brackets.io/) to write HTML, CSS and JS.
 
+Later in the term you will be using, Vue.JS a front end framework for easy update and manipulation of content on the page.
+
+You will also learn the simple basics of [Adobe XD](http://www.adobe.com/ca/products/xd.html), [InVision](https://www.invisionapp.com/) and [Origami](https://origami.design/) as prototyping software.
+
+
 A smartphone of some kind (iOS, Android, etc.) will be needed to test the final project.
 
 ## READING LIST
@@ -33,7 +38,7 @@ A smartphone of some kind (iOS, Android, etc.) will be needed to test the final 
 ### Required Textbook
 
 Marquis, M. (2016). [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers). A Book Apart.
-_Use **HESCRP-117** before January 31 to save 15% on the book._
+_Use **HESCRP-JS** to save 15% on the book._
 
 ### Recommended Reading
 
@@ -46,6 +51,23 @@ Norman, D. A. (2013). The design of everyday things: Revised and expanded editio
 Lupton, E. (Ed.). (2014). Beautiful Users: Designing for People. Chronicle Books.
 
 Lupton, E. (2014). Type on Screen: A Critical Guide for Designers, Writers, Developers, and Students. Chronicle Books.
+
+Bentley, Frank and Barrett, Peter, Building Mobile Experiences. MIT, 2012
+
+Morville, Peter, and Rosenfeld, Louis, Information Architecture for the World Wide Web. O'Reilly, 2006
+
+Buxton, Bill, Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.
+
+Jones,M. & Marsden,G., 2006. Mobile Interaction Design. Wiley
+
+Zwick,C. Schmitz,B. & Kuhl,K., 2005. Designing for small screens. Ava Publishing
+
+Rahn Frederick, G. & Lal, R. (2009) Beginning Smartphone Web Development. New York, Apress.
+
+Galitz, W. O. (2007) The Essential Guide to User Interface Design. Indianapolis, Wiley Publishing
+
+Nielsen, J. (2000), Designing web usability. New Riders 
+
 
 ## Schedule
 _**Please note**: This schedule may change with advance notice from your instructor._
@@ -61,32 +83,36 @@ _**Please note**: This schedule may change with advance notice from your instruc
 	- Adding content to the DOM
 - Week 03
 	- Conventions
+	- Ethnography
 	- CSS Animations
 - Week 04
 	- Forms & Inputs
 - Week 05
 	- Geolocation
+	- Arrays & Objects
 - Week 06
 	- Prototyping
 	- APIs & JSON
 - Week 07
 	- Debugging for Mobile
+	- Introduction to Vue.JS
 - Week 08
-	- PACT analysis
-	- Objects & Arrays (_previously week 09_)
+	- User Testing
+	- Mobile considerations
 - Week 09
 	- Sign posts
-	- Web app functionality (_previously week 08_)
+	- Paper prototyping
+	- Introduction to Adobe XD
 - Week 10
-	- User Testing
-	- LocalStorage
+	- VueJS – lists
+	- Introduction to InVision
 - Week 11
-	- Paper prototypes
-- Week 12
+	- Introduction to Origami
+	- Vue.JS – dynamic changes to CSS
 	- Mobile Design Considerations
+- Week 12
+	- Vue.JS – Image gallery
 - Week 13
-	- Work period
-- Week 14
 	- Final Project presentations
 
 ## Grading
@@ -95,13 +121,13 @@ All assignments are to be completed for the start of class on the date assigned 
 
 - Assignment 1 (25%) 
 	- Simple Dynamic Data web page
-	- Due WEEK 5 (Week of Feb 6)
+	- Due WEEK 5 (Week of Feb 19)
 - Assignment 2 (25%) 
 	- Interactive Game 
-	- Due WEEK 8 (Week of Mar 6)
-- Assignment 3 & 4 (50%) 
-	- Festival Experience App
-	- Due WEEK 11 (Week of Mar 27) & 14 (Week of Apr 17)
+	- Due WEEK 8 (Week of Mar 19)
+- Assignment 3 (50%) 
+	- Web App prototype
+	- Due WEEK 11 (Week of Apr 9) & 13 (Week of Apr 23)
 
 ## Late Work
 
