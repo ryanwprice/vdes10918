@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project gives you the opportunity to build dynamic web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become web Apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. 
+This course gives you the opportunity to build dynamic web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become web Apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. 
 
 Instructor: Ryan Price    
 Email: [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)    
@@ -72,48 +72,70 @@ Nielsen, J. (2000), Designing web usability. New Riders
 ## Schedule
 _**Please note**: This schedule may change with advance notice from your instructor._
 
-- Week 01
-	- What is Javascript?
-	- Variables
-	- If statements
-	- Date objects
-- Week 02
-	- Affordances & Usability
-	- Random & Math
-	- Adding content to the DOM
-- Week 03
-	- Conventions
-	- Ethnography
-	- CSS Animations
-- Week 04
-	- Forms & Inputs
-- Week 05
-	- Geolocation
-	- Arrays & Objects
-- Week 06
-	- Prototyping
-	- APIs & JSON
-- Week 07
-	- Debugging for Mobile
-	- Introduction to Vue.JS
-- Week 08
-	- User Testing
-	- Mobile considerations
-- Week 09
-	- Sign posts
-	- Paper prototyping
-	- Introduction to Adobe XD
-- Week 10
-	- VueJS – lists
-	- Introduction to InVision
-- Week 11
-	- Introduction to Origami
-	- Vue.JS – dynamic changes to CSS
-	- Mobile Design Considerations
-- Week 12
-	- Vue.JS – Image gallery
-- Week 13
-	- Final Project presentations
+## Schedule
+_**Please note**: This schedule may change with advance notice from your instructor._
+
+**Week 1** – 22nd January 
+- Introduction and project briefing
+- Workflow overview (roles of HTML, CSS, JS).
+- What is Javascript?
+- Variables
+- If statements
+- Date objects
+
+**Week 2** – 29th January 
+- Conducting an Ethnographic study of mobile users
+- Affordances & Usability
+- Accessing & Adding content to the DOM
+- Random & Math
+
+**Week 3** – 5th February
+- Conventions
+- CSS Animations
+
+**Week 4** – 12th February
+- UI Sketching
+- Forms & Inputs
+
+**Week 5** – 19th February
+- Project 1 presentation
+- Geolocation 
+
+**READING WEEK** – 26th February
+
+**Week 6** – 5th March
+- Prototyping 
+- APIs & JSON
+
+**Week 7** – 12th March
+- Don’t make me think 
+- Project support for hand in next week
+- Debugging for Mobile
+
+**Week 8** – 19th March
+- Project 2 presentation
+- Group preparation for final project
+- Introduction to VueJS 
+
+**Week 9** – 26th March
+- Paper prototyping
+- Introduction to Adobe XD for Prototyping
+
+**Week 10** – 2nd April
+- Rocket Surgery Made Easy
+- Introduction to InVision and Origami as alternatives to XD
+- VueJS – lists
+
+**Week 11** – 9th April
+- UI Design Patterns
+- VueJS – dynamically change CSS
+
+**Week 12** – 16th April
+- VueJS Dynamic - image gallery
+- Project work
+
+**Week 13** – 23rd April
+- Final Project presentations
 
 ## Grading
 
