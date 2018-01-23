@@ -2,34 +2,35 @@
 Worth 25%
 **Due Week 5 (Week of Feb 19)**
 
-## Brief 
-You will develop an interaction design artifact–a simple calculator or random generator–using HTML, CSS and JavaScript that integrates user behaviour (e.g., clicking, hovering, touching, shaking, scrolling and dragging). Your task is to create an index.html file that Javascript is written into following page load. Your content should include text, graphics and animation to enhance the interaction. It must include at least 2 forms of user interaction (e.g., hover/transition techniques, inputs, variable requests).
+## Brief
 
-Examples:
+You will develop some simple ways to take input from external sources such as the time, working with variables, animating content and creating random interactions. Your task is to create a dynamic page that Javascript writes into _after_ the page has loaded. Your content can be animated, textual, graphical or can be a mixture of all. It can require user input or just write directly in. Your content should consider text, graphics and animation to enhance the interaction.
+
+You can create your own project idea or one of the following: 
 - Area or perimeter calculator
 - Tip calculator
 - Grade calculator
-- Password generator
-- Lottery ticket maker
-
-_It is recommended that you run your idea past your instructor to ensure it fits the needs of the assignment._
+- Lottery Number generator
 
 ## Deliverables
 
-1. Blog post of the working project, discussing the project from conception to creation. The post should include:
+- Demonstration of the working web page in a presentation.
+- Blog post of the working project, discussing the project from conception to creation. The post should include:
 	- discussion of problems encountered and the respective solutions
 	- code snippets & screenshots to compliment your discussion
-	- walkthrough of the final project.
-2. The code for your page zipped up and uploaded to Slate.
+	- The project uploaded to the Firebird server
+- The code for your web page zipped up and uploaded to Slate with URL to blog in the comments.
 
-## Grading Criteria 
+## Grading Criteria
 
 _All criteria are equally weighted_
 
-1. The project shows interesting intellectual ideas and concepts that have been developed and refined.	
-2. Passion, heart and soul have been tirelessly applied to your work. This can be seen in the quality of the finished piece.	
-3. The finished piece shows attention to detail, technical prowess, and overall superior craftsmanship.
-4. Quality execution of code and documentation.
+1. Ability to identify the pages potential
+Analyze the feature and identify a group of users that need this feature (this should be addressed in the blog)
+2. Develop supporting documentation 
+Generate a blog post with your project uploaded/linked and a walkthrough with screenshots of the functionality 
+3. Quality of visual presentation 
+Create a well designed Web page that gives the right information and features to the user for the purpose of the project 
 
 ## Late Work
 

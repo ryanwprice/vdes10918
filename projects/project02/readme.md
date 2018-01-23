@@ -1,36 +1,49 @@
-# Project 2 – Interactive Game
+# Project 2 – Two dynamic features
 Worth 25%
 **Due Week 8 (Week of Mar 19)**
 
-## Brief 
-You will develop a simple interactive game using HTML, CSS and JavaScript that integrates user behaviour (e.g., clicking, hovering, touching, shaking, scrolling and dragging). Your task is to create an index.html file that Javascript is written into following page load. Your content should include text, graphics and animation to enhance the interaction. Focus on usability is critical–the game may be familiar to most users, but gameplay must still be intuitive, regardless of previous experience. Instructions can be included, but strive to make the experience a success without having to read the rules first. Affordances, conventions, and other usability fundamentals will help in the success of the game's intuitiveness.
+## Brief
 
-Examples:
+Developing your skills from project 1, your task is to take two of the features from the code we have covered in class and create a simple web page/web app (it should have one primary goal) using two of the in-class concepts and merging them, or finding other dynamic data. You are simply finding a use case for the page based on code we have already created in class. 
+
+Focus on usability is critical–the page/app must be intuitive, regardless of previous user experience. Instructions can be included, but strive to make the experience a success without having to read them. Affordances, conventions, and other usability fundamentals will help in the success of page/app's intuitiveness.
+
+You will customize the design of your page and demonstrate it working.
+
+You can pursue your own idea or one of the following: 
 
 - Magic 8 ball
-- Rock, Paper, Scissors,
 - Guessing games
+- Rock, Paper, Scissors
 - Coin flip
 - Dice games
+- Sleep calculator (research sleep patterns)
+- Pet name generator (based on what pet user has)
+- Restaurant Suggestor
+- Colour scheme generator
+- etc.
 
 _It is recommended that you run your idea past your instructor to ensure it fits the needs of the assignment._
 
 ## Deliverables
 
-1. Blog post of the working project, discussing the project from conception to creation. The post should include:
+- Demonstration of the working web page in a presentation.
+- Blog post of the working project, discussing the project from conception to creation. The post should include:
 	- discussion of problems encountered and the respective solutions
 	- code snippets & screenshots to compliment your discussion
-	- walkthrough of the final project.
-2. The code for your page zipped up and uploaded to Slate.
+	- The project uploaded to the Firebird server
+- The code for your web page zipped up and uploaded to Slate with URL to blog in the comments.
 
-## Grading Criteria 
+## Grading Criteria
 
 _All criteria are equally weighted_
 
-1. The project shows interesting intellectual ideas and concepts that have been developed and refined.	
-2. Passion, heart and soul have been tirelessly applied to your work. This can be seen in the quality of the finished piece.	
-3. The finished piece shows attention to detail, technical prowess, and overall superior craftsmanship.
-4. Quality execution of code and documentation.
+1. Ability to identify the web page potential
+Analyze the feature and identify a group of users that need this feature (this should be addressed in the blog)
+2. Develop supporting documentation 
+Generate a blog post with your project uploaded/linked and a walkthrough with screenshots of the functionality 
+3. Quality of visual presentation 
+Create a well designed Web page that gives the right information and features to the user for the purpose of the project 
 
 ## Late Work
 
