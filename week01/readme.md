@@ -8,9 +8,9 @@
 - Date objects
 
 ## Reading
-- Chapter 1: Getting Setup (pg 7–23)
-- Chapter 2: Understanding Data Types (pg 31–37)
-- Chapter 3: Conditional Statements (pg 54–57)
+- Chapter 1: Getting Setup 
+- Chapter 2: Understanding Data Types > Variables (stop at Arrays)
+- Chapter 3: Conditional Statements > if/else Statements
 
 ## Resources
 

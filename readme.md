@@ -90,12 +90,12 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - Random & Math
 
 **Week 3** – 5th February
-- Conventions
-- CSS Animations
-
-**Week 4** – 12th February
 - UI Sketching
 - Forms & Inputs
+
+**Week 4** – 12th February
+- Conventions
+- CSS Animations
 
 **Week 5** – 19th February
 - Project 1 presentation
