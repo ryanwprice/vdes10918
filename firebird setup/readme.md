@@ -1,6 +1,6 @@
 # Firebird Server (Blog) setup
 
-If you need your login & password information, [email](mailto:ryan.price1@sheridancollege.ca?Subject=blog login &amp; password) me and I will dig up the info for you.
+If you need your login & password information, <a href="mailto:ryan.price1@sheridancollege.ca?Subject=blog login &amp; password">email</a> me and I will dig up the info for you.
 
 If you are having issues with setup, please contact [ ixd_support@sheridancollege.ca](mailto: ixd_support@sheridancollege.ca) for support.
 
