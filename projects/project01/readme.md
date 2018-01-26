@@ -1,5 +1,5 @@
-# Project 1 – DYNAMIC DATA INTERACTION
-Worth 25%
+# Project 1 – DYNAMIC DATA INTERACTION      
+Worth 25%      
 **Due Week 5 (Week of Feb 19)**
 
 ## Brief
@@ -25,12 +25,9 @@ You can create your own project idea or one of the following:
 
 _All criteria are equally weighted_
 
-1. Ability to identify the pages potential
-Analyze the feature and identify a group of users that need this feature (this should be addressed in the blog)
-2. Develop supporting documentation 
-Generate a blog post with your project uploaded/linked and a walkthrough with screenshots of the functionality 
-3. Quality of visual presentation 
-Create a well designed Web page that gives the right information and features to the user for the purpose of the project 
+1. Ability to identify the pages potential—Analyze the feature and identify a group of users that need this feature (this should be addressed in the blog)
+2. Develop supporting documentation—Generate a blog post with your project uploaded/linked and a walkthrough with screenshots of the functionality 
+3. Quality of visual presentation—Create a well designed Web page that gives the right information and features to the user for the purpose of the project 
 
 ## Late Work
 
