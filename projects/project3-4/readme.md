@@ -62,7 +62,7 @@ Working with HTML, CSS, Javascript and Vue.js to build a functioning solution
 4. Professional approach         
 Ability to problem solve both technically and aesthetically. Displaying a professional work ethic 
 
-# DOCUMENTATION ASSIGNMENT 
+# Project 4 — Documentation Assignment 
 Worth 20% 
 Due: 14 (Week of Apr 23)
 
@@ -103,8 +103,9 @@ Analyze existing Apps to generate a synopsis. Synopsis should include discussion
 Required documentation is included and of professional quality
 3. **Quality of visual presentation**       
 Well designed documentation that demonstrates an ability to communicate complex ideas in a aesthetically cohesive design of professional quality. 
-4. **Identify users**
+4. **Identify users**         
 Identify the users of the project and their needs. 
+
 _A deduction of up to 5% may be removed for spelling and grammar issues._
 
 ## Late Work
