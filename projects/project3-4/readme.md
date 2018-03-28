@@ -92,6 +92,7 @@ The process document must include:
 ### Week 14
 
 1. All process documentation listed above, saved as a single PDF file of professional quality & aesthetically cohesive design, uploaded to Slate.
+2. Digital prototype (using XD, Origami, etc.), tested and recorded as an MP4
 
 ## Grading Criteria
 
