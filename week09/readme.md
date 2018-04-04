@@ -11,6 +11,7 @@
 
 ## Resources
 
+- [Don't Make Me Think Usability Test Script](https://www.sensible.com/downloads/test-script-web.pdf)
 - [Vue School](https://vue-school.com/)
 - [5 Practical examples for learning Vue](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)
 - [CSS Tricks - Learning Vue (Part 1 + 2)](https://css-tricks.com/guides/vue/)
