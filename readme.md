@@ -28,8 +28,7 @@ We will be using [Brackets](http://brackets.io/) to write HTML, CSS and JS.
 
 Later in the term you will be using, Vue.JS a front end framework for easy update and manipulation of content on the page.
 
-You will also learn the simple basics of [Adobe XD](http://www.adobe.com/ca/products/xd.html), [InVision](https://www.invisionapp.com/) and [Origami](https://origami.design/) as prototyping software.
-
+You will also learn the simple basics of [Adobe XD]
 
 A smartphone of some kind (iOS, Android, etc.) will be needed to test the final project.
 
