@@ -75,7 +75,7 @@ _**Please note**: This schedule may change with advance notice from your instruc
 ## Schedule
 _**Please note**: This schedule may change with advance notice from your instructor._
 
-**Week 1** – 22nd January 
+**Week 1** – 11th January 
 - Introduction and project briefing
 - Workflow overview (roles of HTML, CSS, JS).
 - What is Javascript?
@@ -83,59 +83,59 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - If statements
 - Date objects
 
-**Week 2** – 29th January 
+**Week 2** – 18th January 
 - Conducting an Ethnographic study of mobile users
-- Affordances & Usability
 - Accessing & Adding content to the DOM
 - Random & Math
-
-**Week 3** – 5th February
-- UI Sketching
 - Forms & Inputs
 
-**Week 4** – 12th February
-- Conventions
+**Week 3** – 25th January
+- Usability
 - CSS Animations
 
-**Week 5** – 19th February
+**Week 4** – 1st February
+- Random responses
+- UI Sketching
+
+**Week 5** – 8th February
 - Project 1 presentation
 - Geolocation 
 
-**READING WEEK** – 26th February
-
-**Week 6** – 5th March
+**Week 6** – 15th February
 - Prototyping 
+- Introduction to Adobe XD
 - APIs & JSON
 
-**Week 7** – 12th March
-- Don’t make me think 
-- Project support for hand in next week
+**Week 7** – 22nd February
 - Debugging for Mobile
 
-**Week 8** – 19th March
-- Project 2 presentation
+**READING WEEK** 
+
+**Week 8** – 8th March
+- Don’t make me think 
 - Group preparation for final project
-- Introduction to VueJS 
 
-**Week 9** – 26th March
-- Paper prototyping
-- Introduction to Adobe XD for Prototyping
-
-**Week 10** – 2nd April
+**Week 9** – 15th March
 - Rocket Surgery Made Easy
-- Introduction to InVision and Origami as alternatives to XD
-- VueJS – lists
+- Introduction to VueJS
+- Project 2 presentation
 
-**Week 11** – 9th April
-- UI Design Patterns
-- VueJS – dynamically change CSS
+**Week 10** – 22nd March
+- VueJS – Lists
 
-**Week 12** – 16th April
-- VueJS Dynamic - image gallery
+**Week 11** – 29th March
+- UI Design Considerations
+- VueJS – Dynamic CSS
+
+**Week 12** – 5th April
+- VueJS Dynamic Image Gallery
 - Project work
 
-**Week 13** – 23rd April
-- Final Project presentations
+**Week 13** – 12th April
+- Project work
+
+**Week 14** - 19th April
+- Good Friday (No Class)
 
 ## Grading
 
@@ -143,13 +143,13 @@ All assignments are to be completed for the start of class on the date assigned 
 
 - Assignment 1 (25%) 
 	- Simple Dynamic Data web page
-	- Due WEEK 5 (Week of Feb 19)
+	- Due WEEK 5 (Feb 8)
 - Assignment 2 (25%) 
 	- Interactive Game 
-	- Due WEEK 8 (Week of Mar 19)
-- Assignment 3 (50%) 
-	- Web App prototype
-	- Due WEEK 11 (Week of Apr 9) & 13 (Week of Apr 23)
+	- Due WEEK 3 (Mar 15)
+- Assignments 3 & 4 (50%) 
+	- Web App prototype & Documentation
+	- Due WEEK 10 (Mar 22) & 14 (Apr 19)
 
 ## Late Work
 
