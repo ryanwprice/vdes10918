@@ -1,13 +1,6 @@
-# Week 09
+# Vue JS
 
-## Topics
-
-- Project 2 presentation
-- Introduction to VueJS
-
-## Reading
-- [Vue JS Intro lesson](
-- [Vue Instance](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
+- [Week 9: Intro to Vue](intro)
 
 ## Resources
 
