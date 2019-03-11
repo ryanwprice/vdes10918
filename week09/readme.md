@@ -6,7 +6,7 @@
 - Introduction to VueJS
 
 ## Reading
-- _None_
+- [Vue Instance](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 
 ## Resources
 
