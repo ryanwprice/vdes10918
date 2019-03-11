@@ -115,20 +115,22 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - Group preparation for final project
 
 **Week 9** – 15th March
-- Rocket Surgery Made Easy
 - Introduction to VueJS
 - Project 2 presentation
 
 **Week 10** – 22nd March
+- Rocket Surgery Made Easy
 - VueJS – Lists
 
 **Week 11** – 29th March
 - UI Design Considerations
 - VueJS – Dynamic CSS
+- Project 4 Documentation Review
 
 **Week 12** – 5th April
 - VueJS Dynamic Image Gallery
 - Project work
+- Paper Prototype Testing
 
 **Week 13** – 12th April
 - Project work
