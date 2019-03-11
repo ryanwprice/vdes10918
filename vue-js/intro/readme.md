@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Download the [vue-js-intro.zip](assets/vue-js-intro.zip)
+Download the [vue-js-intro.zip](vue-js-intro.zip)
 
 Open the `vue-intro/start` folder in Brackets and note the following script tag in `index.html` to link up the Vue library:
 
