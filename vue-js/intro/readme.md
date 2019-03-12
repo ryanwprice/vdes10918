@@ -64,9 +64,9 @@ Add the following CSS to head section:
 Now we will dynamically apply this via the input text box.
 
 Update the `<p>` to match the code below:
-	
-`<p v-bind:class="message"> {{ message }}</p>`
-	
+
+	<p v-bind:class="message"> {{ message }}</p>	
+
 This binds the message to also control the CSS class.
 
 Save the page and type "red" into the input box.
