@@ -11,3 +11,5 @@
 ## Reading
 
 - [Vue Instance](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
+- [Vue Attribute Binding](https://www.vuemastery.com/courses/intro-to-vue-js/attribute-binding)
+- [Vue Conditional Rendering](https://www.vuemastery.com/courses/intro-to-vue-js/conditional-rendering)

@@ -4,6 +4,7 @@
 
 ## Resources
 
+-[Vue Essentials Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 - [Vue School](https://vue-school.com/)
 - [5 Practical examples for learning Vue](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)
 - [CSS Tricks - Learning Vue (Part 1 + 2)](https://css-tricks.com/guides/vue/)
