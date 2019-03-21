@@ -4,6 +4,9 @@
 
 - Rocket Surgery Made Easy
 - VueJS — Lists
+- 
+## Lesson
+- [Vue Grocery List](/vue-js/grocery-list)
 
 ## Reading
 - [Vue List Rendering](https://www.vuemastery.com/courses/intro-to-vue-js/list-rendering)
