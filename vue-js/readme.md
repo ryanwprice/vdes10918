@@ -1,6 +1,7 @@
 # Vue JS
 
 - [Week 9: Intro to Vue](intro)
+- [Week 10: Vue Grocery List](grocery-list)
 
 ## Resources
 

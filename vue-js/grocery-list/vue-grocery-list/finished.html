@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+    <title>Grocery List</title>
+    <style>
+        #app {
+            width: 50%;
+            margin: 20px auto 0px auto;
+            background-color: #eee;
+            padding: 10px;
+        }
+        
+        .removed {
+            text-decoration: line-through;
+            color: rgba(0,0,0,0.5);
+        }
+        
+        ul li {
+            list-style-type: none;
+        }
+
+    </style>
+    
+</head>
+<body>
+    <div id="app" >
+        <h2>{{ title }}</h2>
+        
+        <input v-model="newItem" @keyup.enter="addItem" placeholder="add item" type="text" >
+        
+        <ul>
+            <li v-for="item in items" :class="{ 'removed': item.checked }">
+                <label><input type="checkbox" v-model="item.checked"> {{ item.text }}</label>
+            </li>
+        </ul>
+
+        <div class="footer">
+            <hr/>
+            <em>Change the title of your shopping list here</em>
+            <input v-model="title" />
+        </div>
+    </div>
+
+
+    <script src="js/vue.min.js"></script>
+	<script>
+        new Vue({
+            el: '#app',
+            data: {
+                newItem: '',
+                items: [
+                    { text: 'Bananas', checked: true }, 
+                    { text: 'Apples', checked: false}
+                ],
+                title: 'grocery list'
+            },
+            
+            methods: {
+                addItem() {
+                    var text;
+                    text = this.newItem.trim();
+                    if (text) {
+                        this.items.push({text: text, checked: false});
+                        this.newItem = '';
+                    }
+                }
+            }
+
+        });
+    </script>	
+</body>
+</html>
