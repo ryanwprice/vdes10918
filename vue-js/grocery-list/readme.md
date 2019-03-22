@@ -1,10 +1,16 @@
 # Grocery List App
 
+This tutorial will guide you through building an editable grocery list app that lets you check off items from the list.
+
+Take a look at the `finished.html` file to see what you're going to build. 
+
+_Remember: you can reference the finished version at any time to compare the code if something isn't working the way you expect it to_
+
 ## Getting Started
 
 Download [vue-grocery-list.zip](vue-grocery-list.zip)
 
-Open the `index.html` file in Brackets and note the following script tag that links up the Vue library:
+Open the `start.html` file in Brackets and note the following script tag that links up the Vue library:
 
 	<script src="js/vue.min.js"></script>
 
