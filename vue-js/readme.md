@@ -2,6 +2,8 @@
 
 - [Week 9: Intro to Vue](intro)
 - [Week 10: Vue Grocery List](grocery-list)
+- [Week 11: Vue Dynamic CSS](dynamic-css)
+- [Week 12: Vue Image Gallery](image-gallery)
 
 ## Resources
 

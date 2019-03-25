@@ -77,9 +77,11 @@ Before we go on, create a different css class and then try applying it via the i
 
 ## Binding an Input Slider
 
+Remember when we made that picture of Bill Murray change colours? Well, we're going to do it again, but this time we will code it with Vue!
+
 Save the page and then choose `File > Save As`, naming it "slider.html"
 
-Remove everything inside the `<div id=“app”>`, replace as follows:
+Remove everything inside the `<div id="app">`, replace as follows:
 
 	<input type="range" min="0" max="360" step="5" value="180" v-model="myValue" />
 	<p>{{ myValue }}</p>
@@ -110,6 +112,6 @@ The filter: hue-rotate CSS is controlled by the `myValue` variable.
 
 ## Conclusion
 
-Compare this to the code from the start of the term when we created the same slider with pure JS
+Compare this to the code from the start of the term when we created the same slider with regular ol' _vanilla_ JS
 
 Make sure you understand what data binding is, we will do it again next week
