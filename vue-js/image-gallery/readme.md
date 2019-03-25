@@ -74,8 +74,8 @@ Let’s add the `lookUpData` function to Vue by creating our methods directly af
 				app.myResult = response.data.records;
 			}).catch(function(error) {
 			  alert("There was an error loading the records");
-	    })
-		}
+		  })
+	  }
 	}
 
 This code uses a small library called "axios" that loads outside data using something called `XHR`.
