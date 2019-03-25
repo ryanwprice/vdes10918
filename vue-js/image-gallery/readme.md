@@ -71,8 +71,8 @@ Let’s add the `lookUpData` function to Vue by creating our methods directly af
 		lookUpData() {
 			var app = this;
 			axios.get('records.json').then(function(response) {
-		    app.myResult = response.data.records;
-		  }).catch(function(error) {
+				app.myResult = response.data.records;
+			}).catch(function(error) {
 			  alert("There was an error loading the records");
 	    })
 		}
