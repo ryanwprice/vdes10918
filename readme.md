@@ -16,7 +16,7 @@ My office time is split between B122D & J119. An appointment is necessary.
 
 ### Email
 
-Make sure that you check your Sheridan email account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.
+Make sure that you check your Sheridan email (and Slate) account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.
 
 I can be reached at [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca) and will reply within 24 hours except on the weekends.
 
@@ -26,9 +26,9 @@ Emailing me the night before an assignment is due, will not likely get the desir
 
 We will be using [Brackets](http://brackets.io/) to write HTML, CSS and JS.
 
-Later in the term you will be using, Vue.JS a front end framework for easy update and manipulation of content on the page.
+Later in the term you will be using, [Vue.JS](https://vuejs.org/) a front end framework for easy update and manipulation of content on the page.
 
-You will also learn the simple basics of [Adobe XD]
+You will also learn the simple basics of [Adobe XD](https://www.adobe.com/ca/products/xd/details.html)
 
 A smartphone of some kind (iOS, Android, etc.) will be needed to test the final project.
 
@@ -74,7 +74,7 @@ _**Please note**: This schedule may change with advance notice from your instruc
 ## Schedule
 _**Please note**: This schedule may change with advance notice from your instructor._
 
-**Week 1** – 11th January 
+**Week 1** – 10th January 
 - Introduction and project briefing
 - Workflow overview (roles of HTML, CSS, JS).
 - What is Javascript?
