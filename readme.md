@@ -67,10 +67,6 @@ Galitz, W. O. (2007) The Essential Guide to User Interface Design. Indianapolis,
 
 Nielsen, J. (2000), Designing web usability. New Riders 
 
-
-## Schedule
-_**Please note**: This schedule may change with advance notice from your instructor._
-
 ## Schedule
 _**Please note**: This schedule may change with advance notice from your instructor._
 
@@ -81,62 +77,65 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - Variables
 - If statements
 - Date objects
-
-**Week 2** – 18th January 
-- Conducting an Ethnographic study of mobile users
+- DOM
 - Accessing & Adding content to the DOM
+
+**Week 2** – 17th January 
+- Digital Ethnography
 - Random & Math
 - Forms & Inputs
 
-**Week 3** – 25th January
+**Week 3** – 24th January
 - Usability
 - CSS Animations
 
-**Week 4** – 1st February
+**Week 4** – 31st January
 - Random responses
 - UI Sketching
 
-**Week 5** – 8th February
+**Week 5** – 7th February
 - Project 1 presentation
 - Geolocation 
 
-**Week 6** – 15th February
+**Week 6** – 14th February
 - Prototyping 
 - Introduction to Adobe XD
 - APIs & JSON
 
-**Week 7** – 22nd February
+**Week 7** – 21st February
 - Debugging for Mobile
+- Objects & Arrays
+- Speech API
 
 **READING WEEK** 
 
-**Week 8** – 8th March
+**Week 8** – 6th March
 - Don’t make me think 
 - Group preparation for final project
 
-**Week 9** – 15th March
+**Week 9** – 13th March
 - Introduction to VueJS
 - Project 2 presentation
 
-**Week 10** – 22nd March
-- Rocket Surgery Made Easy
+**Week 10** – 20th March
+- Usability Testing
 - VueJS – Lists
 
-**Week 11** – 29th March
+**Week 11** – 27th March
 - UI Design Considerations
 - VueJS – Dynamic CSS
 - Project 4 Documentation Review
 
-**Week 12** – 5th April
+**Week 12** – 3rd April
 - VueJS Dynamic Image Gallery
 - Project work
 - Paper Prototype Testing
 
-**Week 13** – 12th April
+**Week 13** – 10th April
 - Project work
 
-**Week 14** - 19th April
-- Good Friday (No Class)
+**Week 14** - 17th April
+- Project work
 
 ## Grading
 
@@ -144,13 +143,13 @@ All assignments are to be completed for the start of class on the date assigned 
 
 - Assignment 1 (25%) 
 	- Simple Dynamic Data web page
-	- Due WEEK 5 (Feb 8)
+	- Due WEEK 5 (Feb 7)
 - Assignment 2 (25%) 
 	- Interactive Game 
-	- Due WEEK 3 (Mar 15)
+	- Due WEEK 9 (Mar 13)
 - Assignments 3 & 4 (50%) 
 	- Web App prototype & Documentation
-	- Due WEEK 10 (Mar 22) & 14 (Apr 19)
+	- Due WEEK 11 (Mar 27) & WEEk 14 (Apr 17)
 
 ## Late Work
 
@@ -159,6 +158,12 @@ All projects and exercises must be submitted at the beginning of the class on th
 If there is a valid reason for the late assignment, the student must email their professor as soon as possible, and no later than the date the assignment is due to indicate it will be late. If the reason is deemed to be valid, there will be no late penalty.
 
 There will be no resubmission of work unless, under exceptional circumstances, this has been agreed to or suggested by the professor.
+
+Academic accommodations must be discussed in advance of the due date in order to work out a plan that ensures your success—simply providing extra time for an assignment can often prove detrimental to your learning in the course.
+
+Missing a deadline is stressful. Sometimes it is the result of bad timing and dumb luck, other times it is something more persistent—struggling to understand material, personal life getting in the way of academics, your current mental state, or a combination of all these things. If you are feeling stuck and need help, I am here—that's my job—to help you succeed. 
+
+If you think you can’t make a deadline, please let me know as soon as possible. Together, we can work on a plan to get you back on track to ensure your success in this course.
 
 **PLEASE NOTE** - Computer hardware/software failure does not constitute a valid reason for a late assignment, please make regular back-ups of your work to ensure timely delivery of your project. Extra storage on [Dropbox](https://db.tt/KtXMYmmi) is available using this link.
 
