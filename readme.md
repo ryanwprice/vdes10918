@@ -78,12 +78,12 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - If statements
 - Date objects
 - DOM
-- Accessing & Adding content to the DOM
 
 **Week 2** – 17th January 
 - Digital Ethnography
 - Random & Math
 - Forms & Inputs
+- Accessing & Adding content to the DOM
 
 **Week 3** – 24th January
 - Usability
@@ -149,7 +149,7 @@ All assignments are to be completed for the start of class on the date assigned 
 	- Due WEEK 9 (Mar 13)
 - Assignments 3 & 4 (50%) 
 	- Web App prototype & Documentation
-	- Due WEEK 11 (Mar 27) & WEEk 14 (Apr 17)
+	- Due WEEK 11 (Mar 27) & WEEK 14 (Apr 17)
 
 ## Late Work
 
