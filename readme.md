@@ -14,6 +14,17 @@ Office hours: upon appointment
 
 My office time is split between B122D & J119. An appointment is necessary.
 
+### PALs
+
+#### Fridays, 11–2
+PAL: Valeriia Zub 
+Email: [zub@sheridancollege.ca](zub@sheridancollege.ca)
+Help Sessions: Tuesdays @ 11AM in J216
+
+PAL: Linda Hatch
+Email: [hatchli@sheridancollege.ca](hatchli@sheridancollege.ca)
+Help Sessions: TBD
+
 ### Email
 
 Make sure that you check your Sheridan email (and Slate) account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.
