@@ -21,6 +21,7 @@ PAL: Valeriia Zub
 Email: [zub@sheridancollege.ca](zub@sheridancollege.ca)
 Help Sessions: Tuesdays @ 11AM in J216
 
+#### Fridays, 8–11
 PAL: Linda Hatch
 Email: [hatchli@sheridancollege.ca](hatchli@sheridancollege.ca)
 Help Sessions: TBD
