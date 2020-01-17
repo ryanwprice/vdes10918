@@ -17,13 +17,13 @@ My office time is split between B122D & J119. An appointment is necessary.
 ### PALs
 
 #### Fridays, 11–2
-PAL: Valeriia Zub 
-Email: [zub@sheridancollege.ca](zub@sheridancollege.ca)
+PAL: Valeriia Zub     
+Email: [zub@sheridancollege.ca](zub@sheridancollege.ca)     
 Help Sessions: Tuesdays @ 11AM in J216
 
 #### Fridays, 8–11
-PAL: Linda Hatch
-Email: [hatchli@sheridancollege.ca](hatchli@sheridancollege.ca)
+PAL: Linda Hatch     
+Email: [hatchli@sheridancollege.ca](hatchli@sheridancollege.ca)           
 Help Sessions: Wednesdays @ 12PM in J216
 
 ### Email
