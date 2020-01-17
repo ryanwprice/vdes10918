@@ -24,7 +24,7 @@ Help Sessions: Tuesdays @ 11AM in J216
 #### Fridays, 8–11
 PAL: Linda Hatch
 Email: [hatchli@sheridancollege.ca](hatchli@sheridancollege.ca)
-Help Sessions: TBD
+Help Sessions: Wednesdays @ 12PM in J216
 
 ### Email
 
