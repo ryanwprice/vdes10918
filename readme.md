@@ -153,13 +153,13 @@ _**Please note**: This schedule may change with advance notice from your instruc
 
 All assignments are to be completed for the start of class on the date assigned unless noted otherwise.
 
-- Assignment 1 (25%) 
+- Assignment 1 (30%) 
 	- Simple Dynamic Data web page
 	- Due WEEK 5 (Feb 7)
-- Assignment 2 (25%) 
+- Assignment 2 (30%) 
 	- Interactive Game 
 	- Due WEEK 9 (Mar 13)
-- Assignments 3 & 4 (50%) 
+- Assignments 3 & 4 (30% & 10%) 
 	- Web App prototype & Documentation
 	- Due WEEK 11 (Mar 27) & WEEK 14 (Apr 17)
 
