@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif" rel="stylesheet">
+    <link rel="stylesheet" href="css/design.css">
+</head>
+
+<body>
+    <div class="tab">
+        <button class="tablinks" onclick="openContent(event, 'London')" id="LDN">London</button>
+        <button class="tablinks" onclick="openContent(event, 'Paris')" id="PRS">Paris</button>
+        <button class="tablinks" onclick="openContent(event, 'Tokyo')" id="TKY">Tokyo</button>
+    </div>
+    <div id="pageWrapper">
+        <div id="tabWrap">
+            <div id="Home" class="tabcontent open">
+                <p><strong>Your mission</strong>, should you choose to accept, is to <strong>explore cities</strong> by completing mission challenges.</p>
+                <img src="img/mic.svg" alt="microphone icon indicating that this is a speech interface">
+                <p><strong>Click anywhere</strong> on the screen and <strong>speak the name</strong> of the city or use the <strong>tabs below</strong> to navigate. </p>
+                <h3>Accept a mission and explore the city like never before.</h3>
+            </div>
+            <div id="London" class="tabcontent">
+                <h2>London</h2>
+                <p>London is the capital city of England. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring. </p>
+                <h3>Photo Mission</h3>
+                <img src=img/stars.png alt="four star mission" class="stars">
+                <p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. </p>
+                <div class="action">Accept Mission</div>
+            </div>
+
+            <div id="Paris" class="tabcontent">
+                <h2>Paris</h2>
+                <p>Paris is the capital of France. I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+                <h3>Dine Mission</h3>
+                <img src=img/stars.png alt="four star mission" class="stars">
+                <p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. </p>
+                <div class="action">Accept Mission</div>
+            </div>
+
+            <div id="Tokyo" class="tabcontent">
+                <h2>Tokyo</h2>
+                <p>Tokyo is the capital of Japan. These sweet mornings of spring which I enjoy with my whole heart. </p>
+                <h3>Art Mission</h3>
+                <img src=img/stars.png alt="four star mission" class="stars">
+                <p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. </p>
+                <div class="action">Accept Mission</div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script>
+        var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
+        var SpeechRecognitionEvent = SpeechRecognitionEvent || webkitSpeechRecognitionEvent;
+        const recognition = new SpeechRecognition();
+        const tap = document.getElementById("pageWrapper");
+        const ldn = document.getElementById("LDN");
+        const prs = document.getElementById("PRS");
+        const tky = document.getElementById("TKY");
+
+        /*INTERFACE ELEMENTS*/
+        function openContent(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].classList.remove('open');
+                console.log(tabcontent[i] + " adding open");
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).classList.add('open');
+            evt.currentTarget.className += " active";
+        }
+
+        /*SPEECH ELEMENTS*/
+        recognition.lang = 'en-US';
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+
+        tap.onclick = function() {
+            recognition.start();
+            console.log('Ready to receive a speech command.');
+        }
+
+        recognition.onresult = function(event) {
+
+            let last = event.results.length - 1;
+            let transcript = event.results[last][0].transcript;
+            transcript = transcript.toLowerCase();
+            console.log(transcript);
+
+            if (transcript == "london") {
+                let msg = new SpeechSynthesisUtterance("Bringing back missions for London");
+                window.speechSynthesis.speak(msg);
+                ldn.click();
+                window.scrollTo(0, 0);
+            }
+            if (transcript == "tokyo") {
+                let msg = new SpeechSynthesisUtterance("Bringing back missions for Tokyo");
+                window.speechSynthesis.speak(msg);
+                tky.click();
+                window.scrollTo(0, 0);
+            }
+            if (transcript == "paris") {
+                let msg = new SpeechSynthesisUtterance("Bringing back missions for Paris");
+                window.speechSynthesis.speak(msg);
+                prs.click();
+                window.scrollTo(0, 0);
+            }
+        }
+
+
+
+        recognition.onspeechend = function() {
+            recognition.stop();
+        }
+
+        recognition.onerror = function(event) {
+            console.log('Error occurred in recognition: ' + event.error);
+        }
+
+    </script>
+</body>
+
+</html>

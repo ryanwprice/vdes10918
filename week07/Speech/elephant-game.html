@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pick the Elephant</title>
+	<style>
+		h1{
+			font-size:40px;
+			text-align: center;
+			font-family: sans-serif;
+			color: darkred;
+			margin:40px 0 100px 0;
+		}
+		
+		img {
+			border: 10px solid black;
+			border-radius: 20px;
+			box-shadow: 10px 10px 10px rgba(0,0,0, 0.2);
+			margin:auto;
+			transition: all .25s ease-in-out;
+		}
+		
+		img:hover {
+			border-color: darkred;
+			transform: scale(1.1) rotate(-2deg);
+		}
+		
+		#container {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			max-width: 80%;
+			margin: 0 auto;
+		}
+
+	</style>
+</head>
+
+<body id="wrapper">
+    <h1>Pick the Elephant</h1>
+	<div id="container">
+		<img src="/img/elephant.png" id="elephant" alt="cartoon elephant"/>
+		<img src="/img/lamb.png" id="lamb" alt="cartoon lamb"/>
+	</div>
+	
+    <script>
+		// Make a children's game that makes the computer say "That's an elephant" or "That's not an elephant", depending on which pictogram the user chooses.
+		
+		// OR make the game tell the child the name of the animal when they click it
+		
+		// Feel free to make this game better in any way you see fit!
+    </script>
+</body>
+
+</html>

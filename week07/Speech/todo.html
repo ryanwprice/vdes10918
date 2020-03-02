@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+    <title>To Do</title>
+	<style>
+		
+	body {
+		background-color:azure;
+		font-size: 20px;
+		font-family: sans-serif;
+	}
+		
+	h1 {
+		text-align: center;
+		color: #fff;
+		text-shadow: -2px -2px 0 black, 2px 2px 0 black, 8px 8px 0 #ff99bb;
+		font-size:50px;
+	}
+
+	#todo {
+		max-width: 500px;
+		min-height: 175px;
+		margin: 50px auto;
+		padding:15px 50px;
+		box-shadow: 10px 10px 0 rgba(0,0,0,0.2);
+		background: -webkit-gradient(linear, 0 0, 0 100%, from(#ff99bb), color-stop(4%, #fff)) 0 4px;
+		background-size: 100% 40px;
+		position: relative;
+	}
+
+	li {
+		list-style-type: none;
+		line-height: 40px;
+	}
+
+	#todo:before {
+		content: '';
+		position: absolute;
+		width: 4px;
+		top: 0;
+		left: 30px;
+		bottom: 0;
+		border: 1px solid;
+		border-color: transparent cyan;
+	}
+	</style>
+</head>
+<body id="speak">
+	<h1>To Do List</h1>
+	<ul id="todo"></ul>	
+	
+	<script>
+		// find the todo ul
+		const todo = document.getElementById("todo");
+		//set counter to zero
+		let counter = 0;
+		
+		// initiate speechRecognition
+		var speechRecognition = speechRecognition || webkitSpeechRecognition;
+		const recognition = new speechRecognition();
+		// only the final result is given		
+		recognition.interimResults = false;
+	
+		//When the speech recognition is complete, run arrow function
+		recognition.addEventListener("result", e => {
+			let item = e.results[0];
+			//if the item transcript/text is "remove item, delete the last item;
+			if(item[0].transcript.toLowerCase() == "remove item") {
+				//if the counter = zero there are no items to remove
+				if (counter == 0 ) {
+					//stops function
+					return;
+				}
+				//removes the last item based on counter
+				document.getElementById(counter).remove();
+				//counter - 1
+				counter--;
+			} else {
+				//counter + 1
+				counter++;
+				//create new li
+				let li = document.createElement("li");
+				//add transcript text to li
+				li.innerHTML = item[0].transcript;
+				//add id of counter number
+				li.setAttribute("id", counter);
+				//add to todo list ul
+				todo.appendChild(li);
+			}				
+		})
+		//error control 
+		recognition.onerror = (event) => {
+            alert('Error occurred in recognition: ' + event.error);
+        }
+		
+		//when the computer stops listening, start listening again
+		recognition.addEventListener("end", recognition.start);
+		//starts speech recognition
+		recognition.start();
+	</script>
+</body>
+</html>

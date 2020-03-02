@@ -144,7 +144,7 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - Paper Prototype Testing
 
 **Week 13** – 10th April
-- Project work
+- Good Friday—No class
 
 **Week 14** - 17th April
 - Project work
