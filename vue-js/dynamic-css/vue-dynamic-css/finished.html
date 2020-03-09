@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+    <title>Vue List</title>
+    <style>
+        #app {
+            width: 50%;
+            margin: 20px auto 0px auto;
+        }
+        
+        ul {
+            padding: 0;
+        }
+        
+        ul li {
+            list-style-type: none;
+            margin: 5px;
+            padding: 5px;
+            background: #ccc;
+            transition: all 0.6s;
+        }
+        
+        span {
+            background-color: #ceff00;
+        }
+        
+        .highlight {
+            background: #ceff00;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>Concert Listings</h1>
+        
+        <p>What kind of music do you want to see?</p>
+        
+        <label for="Indie"><input type="radio" id="Indie" value="Indie" v-model="picked">Indie</label> | <label for="Pop">Pop<input type="radio" id="Pop" value="Pop" v-model="picked"></label>
+        
+        <p>Currently Highlighting: <span>{{ picked }}</span></p>
+        
+        <ul>
+            <li v-for="band in bands" :class="{ highlight: isSelected(band.genre) }">{{ band.name }}</li>
+        </ul>
+    </div>
+
+    <script src="js/vue.min.js"></script>
+	<script> 
+        
+        new Vue ({
+            el: '#app',
+            data: {
+                picked: '',
+                bands: [
+                    { name: 'Wintersleep', genre: 'Indie' },
+                    { name: 'Justin Bieber', genre: 'Pop' }, 
+                    { name: 'Dan Mangan', genre: 'Indie' },
+                    { name: 'Bruno Mars', genre: 'Pop' },
+                    { name: 'Madonna', genre: 'Pop' },
+                    { name: 'Stars', genre: 'Indie' }
+                ]
+            },
+            
+            methods: {
+                isSelected(genre) {
+                    if (genre == this.picked) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+            }
+        })
+
+    </script>	
+</body>
+</html>
