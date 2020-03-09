@@ -105,7 +105,7 @@ Save the page and move the slider. It updates the text but wouldn’t it be good
 
 Add this to the body under the paragraph:
 
-	<img src="http://fillmurray.com/300/400" v-bind:style="{ filter: 'hue-rotate(' + myValue + 'deg)' }">
+	<img src="https://source.unsplash.com/random/300x400" v-bind:style="{ filter: 'hue-rotate(' + myValue + 'deg)' }">
 
 This displays an image on the screen and connects the CSS with the `myValue` data element.
 The filter: hue-rotate CSS is controlled by the `myValue` variable.
