@@ -112,6 +112,6 @@ The filter: hue-rotate CSS is controlled by the `myValue` variable.
 
 ## Conclusion
 
-Compare this to the code from the start of the term when we created the same slider with regular ol' _vanilla_ JS
+Compare this to the code from week 02 when we created the same slider with regular ol' _vanilla_ JS
 
 Make sure you understand what data binding is, we will do it again next week
