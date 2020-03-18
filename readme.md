@@ -1,5 +1,11 @@
 # VDES10918 – INTERACTION DESIGN 2: NAVIGATION
 
+## Covid-19 Remediation
+
+**Please review the materials posted to Slate for an updated schedule due to the disruption caused by the COVID-19 virus **
+
+While I have tried my best to ensure that the materials on GitHub match the ones on Slate, please ensure you are also reviewing Slate for Announcements, etc., as this is the preferred platform for the school. That said, to ensure files are consistent across classes, I will continue to link to the GitHub resources as appropriate.
+
 ## Overview
 
 This course gives you the opportunity to build dynamic web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become web Apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. 
@@ -80,6 +86,9 @@ Galitz, W. O. (2007) The Essential Guide to User Interface Design. Indianapolis,
 Nielsen, J. (2000), Designing web usability. New Riders 
 
 ## Schedule
+
+**The Schedule has been updated due to the disruption caused by the COVID-19 virus **
+
 _**Please note**: This schedule may change with advance notice from your instructor._
 
 **Week 1** – 10th January 
@@ -130,21 +139,19 @@ _**Please note**: This schedule may change with advance notice from your instruc
 - Project 2 presentation
 
 **Week 10** – 20th March
-- Usability Testing
-- VueJS – Lists
+- _School is cancelled_
 
 **Week 11** – 27th March
+- Rocket Surgery Made Easy
+- VueJS — Lists
+
+**Week 12** – 3rd April
 - UI Design Considerations
 - VueJS – Dynamic CSS
 - Project 4 Documentation Review
 
-**Week 12** – 3rd April
-- VueJS Dynamic Image Gallery
-- Project work
-- Paper Prototype Testing
-
 **Week 13** – 10th April
-- Good Friday—No class
+- VueJS Dynamic Image Gallery
 
 **Week 14** - 17th April
 - Project work

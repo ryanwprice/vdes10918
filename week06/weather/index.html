@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+
+    <style>
+        body{
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 id="temp"></h1>
+    <p id="weather"></p>
+    <p id="wind"></p>
+
+    <small>Weather data from <a href="http://openweathermap.org/">OpenWeatherMap</a></small>
+
+    <script>
+        var temp = document.getElementById("temp");
+        var weather = document.getElementById("weather");
+        var wind = document.getElementById("wind");
+
+        // Get your own API key: http://openweathermap.org/appid
+        var key = "402d17c41e3ff53236a0e7017365d847";
+
+        // Example code from: https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
+        var httpRequest;
+
+
+        function makeRequest(url) {
+            httpRequest = new XMLHttpRequest();
+
+            if (!httpRequest) {
+                alert('Giving up :( Cannot create an XMLHTTP instance');
+                return false;
+            }
+            httpRequest.onreadystatechange = alertContents;
+            httpRequest.open('GET', url);
+            httpRequest.send();
+        }
+
+        function alertContents() {
+            if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                if (httpRequest.status === 200) {
+                    var result = JSON.parse(httpRequest.responseText);
+                    // This turns the JSON into an object that is readable and dissect-able
+                    console.log(result);
+
+                    // each var below is grabbing the info wanted
+                    // "result" is the JSON object
+                    // if you look in the console you will see how result.main.temp is the data path wanted
+                    var weatherTemp = Math.round(result.main.temp - 273.15);
+                    temp.innerHTML = weatherTemp + "&deg; C";
+
+                    var weatherData = result.weather[0].main;
+                    weather.innerHTML = weatherData;
+
+                    var weatherWind = Math.round(result.wind.speed * 0.001);
+                    wind.innerHTML = weatherWind + " KPH";
+
+                } else {
+                    alert('There was a problem with the request.');
+                }
+            }
+        }
+
+        makeRequest(`http://api.openweathermap.org/data/2.5/weather?q=oakville,ca&APPID=${key}`);
+    </script>
+
+</body>
+
+</html>

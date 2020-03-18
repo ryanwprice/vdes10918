@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+
+    <style>
+        body{
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 id="temp"></h1>
+    <p id="weather"></p>
+    <p id="wind"></p>
+
+    <small>Weather data from <a href="http://openweathermap.org/">OpenWeatherMap</a></small>
+
+    <script>
+        // Get your own API key: http://openweathermap.org/appid
+        var key = "402d17c41e3ff53236a0e7017365d847";
+
+        // Example code from: https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
+        var httpRequest;
+
+        function makeRequest(url) {
+            httpRequest = new XMLHttpRequest();
+
+            if (!httpRequest) {
+                alert('Giving up :( Cannot create an XMLHTTP instance');
+                return false;
+            }
+            httpRequest.onreadystatechange = alertContents;
+            httpRequest.open('GET', url);
+            httpRequest.send();
+        }
+
+        function alertContents() {
+            if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                if (httpRequest.status === 200) {
+                    // This turns the JSON into an object that is readable and dissect-able
+
+                    var result = JSON.parse(httpRequest.responseText);
+                    
+                    console.log(result);
+
+                    // YOUR CODE GOES HERE
+                    
+                } else {
+                    alert('There was a problem with the request.');
+                }
+            }
+        }
+
+        makeRequest("URL-GOES-HERE");
+    </script>
+
+</body>
+
+</html>

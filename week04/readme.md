@@ -13,3 +13,4 @@
 - [CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 - [CSS Animation Pocket Guide](http://cssanimationspocketguide.com/)
 - [Things We Left on the Moon](http://css3exp.com/moon/)
+- [A Guide to Handling Browser Events](https://sarahchima.com/blog/event-handlers/)
