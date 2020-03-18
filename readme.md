@@ -2,7 +2,7 @@
 
 ## Covid-19 Remediation
 
-**Please review the materials posted to Slate for an updated schedule due to the disruption caused by the COVID-19 virus **
+**Please review the materials posted to Slate for an updated schedule due to the disruption caused by the COVID-19 virus**
 
 While I have tried my best to ensure that the materials on GitHub match the ones on Slate, please ensure you are also reviewing Slate for Announcements, etc., as this is the preferred platform for the school. That said, to ensure files are consistent across classes, I will continue to link to the GitHub resources as appropriate.
 
@@ -87,7 +87,7 @@ Nielsen, J. (2000), Designing web usability. New Riders
 
 ## Schedule
 
-**The Schedule has been updated due to the disruption caused by the COVID-19 virus **
+**The Schedule has been updated due to the disruption caused by the COVID-19 virus**
 
 _**Please note**: This schedule may change with advance notice from your instructor._
 
