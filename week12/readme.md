@@ -8,7 +8,7 @@
 
 ## Lecture
 
-- UI Design Considerations YT VIDEO
+- [UI Design Considerations](https://youtu.be/6uzfay83IGU)
 
 ## Lesson
 - [Dynamic CSS](https://ryanwprice.github.io/vdes10918/vue-js/dynamic-css)

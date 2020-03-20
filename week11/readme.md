@@ -7,7 +7,7 @@
 
 ## Lecture
 
-- Rocket Surgery Made Easy YT VIDEO
+- [Rocket Surgery Made Easy](https://youtu.be/Y7TcWB0_B-k)
 - Steve Krug testing demo [.mov](http://ptgmedia.pearsoncmg.com/imprint_downloads/peachpit/peachpit/videosampleclips/krug/SteveKrug_UsabilityDemo.mov) (Mac, 47 Mb), [.wmv](http://ptgmedia.pearsoncmg.com/imprint_downloads/peachpit/peachpit/videosampleclips/krug/SteveKrug_UsabilityDemo.wmv) (PC, 23 Mb), [.m4v](http://ptgmedia.pearsoncmg.com/imprint_downloads/peachpit/peachpit/videosampleclips/krug/SteveKrugUsabilityDemo.m4v) (iPhone, 38 Mb)
 - [Paper Prototyping 101](https://youtu.be/fw42BYQmuJ4)
 
